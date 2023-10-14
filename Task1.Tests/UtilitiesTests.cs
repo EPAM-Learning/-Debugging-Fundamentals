@@ -1,7 +1,6 @@
 using NUnit.Framework;
 using System;
 using Task1;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace Task1.Tests
 {
